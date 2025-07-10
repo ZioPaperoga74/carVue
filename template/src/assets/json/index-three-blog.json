@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "Image": "blog-bike-01.jpg",
+        "Title": "Unlocking the Freedom of Travel: The Ultimate Guide.",
+        "Content": "Are you planning your next adventure but feeling over whelmed by the logistics of transportation...",
+        "Day": "Apr 21, 2024"
+    },
+    {
+        "id": 2,
+        "Image": "blog-bike-02.jpg",
+        "Title": "Tips for a Seamless Rental Experience",
+        "Content": "Book your rental car in advance to secure the best rates and availability, especially during...",
+        "Day": "Apr 27, 2024"
+    },
+    {
+        "id": 3,
+        "Image": "blog-bike-03.jpg",
+        "Title": "Embark on Your Next Adventure with Confidence.",
+        "Content": "With the freedom and flexibility of car rentals, the world is yours to explore!...",
+        "Day": "May 02, 2024"
+    },
+    {
+        "id": 4,
+        "Image": "blog-bike-04.jpg",
+        "Title": "Exploring the Outdoors: A Guide to Bike Rentals and Adventure",
+        "Content": "One of the first steps in planning your biking adventure is selecting the right bike...",
+        "Day": "May 16, 2024"
+    },
+    {
+        "id": 5,
+        "Image": "blog-bike-05.jpg",
+        "Title": "Exploring the Outdoors: A Guide to Bike Rentals and Adventure",
+        "Content": "From rugged mountain trails and scenic coastal paths to tranquil forested routes, the great...",
+        "Day": "May 25, 2024"
+    }
+]

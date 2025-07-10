@@ -1,0 +1,62 @@
+[
+    {
+        "Image": "banner-slider-01.svg",
+        "Name" : "Standard",
+        "Class" : "slider-card"
+    },
+    {
+        "Image": "banner-slider-02.svg",
+        "Name" : "Luxury",
+        "Class" : "slider-card"
+    },
+    {
+        "Image": "banner-slider-03.svg",
+        "Name" : "5+ Guests",
+        "Class" : "slider-card"
+    },
+    {
+        "Image": "banner-slider-04.svg",
+        "Name" : "Wedding",
+        "Class" : "slider-card slider-card-active"
+    },
+    {
+        "Image": "banner-slider-05.svg",
+        "Name" : "Birthday",
+        "Class" : "slider-card"
+    },
+    {
+        "Image": "banner-slider-06.svg",
+        "Name" : "100+ Guests",
+        "Class" : "slider-card"
+    },
+    {
+        "Image": "banner-slider-04.svg",
+        "Name" : "Fishing",
+        "Class" : "slider-card"
+    },
+    {
+        "Image": "banner-slider-08.svg",
+        "Name" : "Party",
+        "Class" : "slider-card"
+    },
+    {
+        "Image": "banner-slider-09.svg",
+        "Name" : "Corporate",
+        "Class" : "slider-card"
+    },
+    {
+        "Image": "banner-slider-10.svg",
+        "Name" : "Community",
+        "Class" : "slider-card"
+    },
+    {
+        "Image": "banner-slider-02.svg",
+        "Name" : "Luxury",
+        "Class" : "slider-card"
+    },
+    {
+        "Image": "banner-slider-03.svg",
+        "Name" : "50+ Guests",
+        "Class" : "slider-card"
+    }
+]

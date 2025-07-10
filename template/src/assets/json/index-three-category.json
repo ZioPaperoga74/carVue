@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "Image": "category-bike-01.svg",
+        "Vehicle": "Off Road",
+        "Bikes": "35 Bikes"
+    },
+    {
+        "id": 2,
+        "Image": "category-bike-02.svg",
+        "Vehicle": "Cruiser",
+        "Bikes": "15 Bikes"
+    },
+    {
+        "id": 3,
+        "Image": "category-bike-03.svg",
+        "Vehicle": "Scooters",
+        "Bikes": "40 Bikes"
+    },
+    {
+        "id": 4,
+        "Image": "category-bike-04.svg",
+        "Vehicle": "Tourers",
+        "Bikes": "10 Bikes"
+    },
+    {
+        "id": 5,
+        "Image": "category-bike-05.svg",
+        "Vehicle": "Sports",
+        "Bikes": "20 Bikes"
+    },
+    {
+        "id": 6,
+        "Image": "category-bike-06.svg",
+        "Vehicle": "Electric",
+        "Bikes": "30 Bikes"
+    },
+    {
+        "id": 7,
+        "Image": "category-bike-07.svg",
+        "Vehicle": "Scrambler",
+        "Bikes": "20 Bikes"
+    }
+]

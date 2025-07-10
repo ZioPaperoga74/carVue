@@ -1,0 +1,52 @@
+[
+    {
+        "Category": "Motor yachts",
+        "Image": "yacht-01.jpg",
+        "YachtCount": "30"
+    },
+    {
+        "Category": "Sailing yachts",
+        "Image": "yacht-02.jpg",
+        "YachtCount": "56"
+    },
+    {
+        "Category": "Yacht gulet",
+        "Image": "yacht-03.jpg",
+        "YachtCount": "21"
+    },
+    {
+        "Category": "Catamaran",
+        "Image": "yacht-04.jpg",
+        "YachtCount": "47"
+    },
+    {
+        "Category": "Fishing yachts",
+        "Image": "yacht-05.jpg",
+        "YachtCount": "32"
+    },
+    {
+        "Category": "Sports Cruisers",
+        "Image": "yacht-06.jpg",
+        "YachtCount": "15"
+    },
+    {
+        "Category": "Displacement Yachts",
+        "Image": "yacht-07.jpg",
+        "YachtCount": "75"
+    },
+    {
+        "Category": "Classic Yachts",
+        "Image": "yacht-08.jpg",
+        "YachtCount": "41"
+    },
+    {
+        "Category": "Flybridge Yachts",
+        "Image": "yacht-09.jpg",
+        "YachtCount": "65"
+    },
+    {
+        "Category": "Hybrid Yachts",
+        "Image": "yacht-10.jpg",
+        "YachtCount": "145"
+    }
+]

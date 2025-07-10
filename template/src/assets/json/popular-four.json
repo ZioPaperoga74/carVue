@@ -1,0 +1,38 @@
+[
+    {
+        "Car" : "FORD",
+        "Modal" : "MUSTANG",
+        "Image" : "car-15.png",
+        "Day" : "$650",
+        "Drive" : "Auto",
+        "Power" : "Power",
+        "Km" : "30",
+        "Ac" : "AC",
+        "Fuel"  : "Diesel",
+        "Persons" :  "5 Persons"  
+    },
+    {
+        "Car" : "AUDI",
+        "Modal" : "MA3 2024 NewUSTANG",
+        "Image" : "car-16.png",
+        "Day" : "$650",
+        "Drive" : "Auto",
+        "Power" : "Power",
+        "Km" : "60",
+        "Ac" : "AC",
+        "Fuel"  : "Gas",
+        "Persons" :  "4 Persons"  
+    },
+    {
+        "Car" : "TOYOTO",
+        "Modal" : "CAMREY SE 350",
+        "Image" : "car-17.png",
+        "Day" : "$799",
+        "Drive" : "Auto",
+        "Power" : "Power",
+        "Km" : "80",
+        "Ac" : "AC",
+        "Fuel"  : "Petrol",
+        "Persons" :  "6 Persons"  
+    }
+]

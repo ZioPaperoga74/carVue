@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "Image": "car-list-2.jpg",
+        "Title": "BMW 640 XI Gran Turismo",
+        "Category": "BMW",
+        "Price": "$60",
+        "Drive": "Manual",
+        "Kilometer": "4600 KM",
+        "Variant": "Petrol",
+        "Steering": "Normal",
+        "Year": "2021",
+        "Seat": "6 Persons",
+        "Location": "Pattaya, Thailand"
+    },
+    {
+        "id": 2,
+        "Image": "car-list-1.jpg",
+        "Title": "Ferrari 458 MM Speciale",
+        "Category": "Ferrari",
+        "Price": "$100",
+        "Drive": "Auto",
+        "Kilometer": "10 KM",
+        "Variant": "Petrol",
+        "Steering": "Power",
+        "Year": "2018",
+        "Seat": "5 Persons",
+        "Location": "Newyork, USA"
+    },
+    {
+        "id": 3,
+        "Image": "car-list-3.jpg",
+        "Title": "Ford Mustang, Blue 2014",
+        "Category": "Ford",
+        "Price": "$400",
+        "Drive": "Auto",
+        "Kilometer": "2500 KM",
+        "Variant": "Petrol",
+        "Steering": "Power",
+        "Year": "2019",
+        "Seat": "4 Persons",
+        "Location": "Lasvegas, USA"
+    },
+    {
+        "id": 4,
+        "Image": "car-list-5.jpg",
+        "Title": "Audi A3 2019 new",
+        "Category": "Audi",
+        "Price": "$45",
+        "Drive": "Manual",
+        "Kilometer": "1700 KM",
+        "Variant": "Petrol",
+        "Steering": "Power",
+        "Year": "2019",
+        "Seat": "4 Persons",
+        "Location": "Newyork, USA"
+    },
+    {
+        "id": 5,
+        "Image": "car-list-4.jpg",
+        "Title": "2018 Chevrolet Camaro",
+        "Category": "Chevrolet",
+        "Price": "$36",
+        "Drive": "Manual",
+        "Kilometer": "1200 KM",
+        "Variant": "Diesel",
+        "Steering": "Power",
+        "Year": "2018",
+        "Seat": "4 Persons",
+        "Location": "Lasvegas, USA"
+    }
+]

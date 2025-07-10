@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "Slider": [
+            {"id": 1, "Image": "car-11.jpg"},
+            {"id": 2, "Image": "car-12.jpg"},
+            {"id": 3, "Image": "car-11.jpg"}
+        ],
+        "Location"  :"Lasvegas",
+        "Name" : "Toyota Camry SE 350",
+        "Reviews" : "(4.0) 138 Reviews",
+        "Day" : "$160",
+        "Drive" : "Auto",
+        "Km" : "10 KM",
+        "Fuel" : "Diesel",
+        "Year" : "2018"
+    },
+    {
+        "id": 2,
+        "Slider": [
+            {"id": 1, "Image": "car-12.jpg"}
+        ],
+        "Location"  :"Lasvegas",
+        "Name" : "Audi A3 2019 new",
+        "Reviews" : "(4.0) 150 Reviews",
+        "Day" : "$45",
+        "Drive" : "Auto",
+        "Km" : "10 KM",
+        "Fuel" : "Diesel",
+        "Year" : "2019"
+    },
+    {
+        "id": 3,
+        "Slider": [
+            {"id": 1, "Image": "car-13.jpg"}
+        ],
+        "Location"  :"Lasvegas",
+        "Name" : "Ford Mustang 4.0 AT",
+        "Reviews" : "(4.0) 170 Reviews",
+        "Day" : "$90",
+        "Drive" : "Auto",
+        "Km" : "10 KM",
+        "Fuel" : "Petrol",
+        "Year" : "2021"
+    },
+    {
+        "id": 4,
+        "Slider": [
+            {"id": 1, "Image": "car-14.jpg"},
+            {"id": 2, "Image": "car-13.jpg"},
+            {"id": 3, "Image": "car-16.jpg"}
+        ],
+        "Location"  :"Spain",
+        "Name" : "Chevrolet Picker",
+        "Reviews" : "(4.0) 165 Reviews",
+        "Day" : "$48",
+        "Drive" : "Manual",
+        "Km" : "18 KM",
+        "Fuel" : "Diesel",
+        "Year" : "2018"
+    },
+    {
+        "id": 5,
+        "Slider": [
+            {"id": 1, "Image": "car-15.jpg"}
+        ],
+        "Location"  :"Lasvegas",
+        "Name" : "Ferrari 458 MM Special",
+        "Reviews" : "(4.0) 160 Reviews",
+        "Day" : "$95",
+        "Drive" : "Auto",
+        "Km" : "16 KM",
+        "Fuel" : "Petrol",
+        "Year" : "2021"
+    },
+    {
+        "id": 6,
+        "Slider": [
+            {"id": 1, "Image": "car-16.jpg"}
+        ],
+        "Location"  :"Newyork, USA",
+        "Name" : "2018 Chevrolet Camaro",
+        "Reviews" : "(4.0) 150 Reviews",
+        "Day" : "$120",
+        "Drive" : "Auto",
+        "Km" : "10 KM",
+        "Fuel" : "Diesel",
+        "Year" : "2019"
+    }
+]

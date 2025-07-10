@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "BadgeClass": "price-level",
+        "Title": "Essential",
+        "Text": "For the basics",
+        "Price": "$49",
+        "Content": "Per user per month",
+        "FourClass": "price-uncheck",
+        "FourIcon": "fa-regular fa-circle-xmark",
+        "FiveClass": "price-uncheck",
+        "FiveIcon": "fa-regular fa-circle-xmark",
+        "SixClass": "price-uncheck",
+        "SixIcon": "fa-regular fa-circle-xmark",
+        "SevenClass": "price-uncheck",
+        "SevenIcon": "fa-regular fa-circle-xmark",
+        "DemoClass": "btn viewdetails-btn"
+    },
+    {
+        "id": 2,
+        "BadgeClass": "price-level price-level-popular",
+        "Title": "Recommended",
+        "Text": "For the Users",
+        "Price": "$95",
+        "Content": "Per user per month",
+        "FourClass": "price-check",
+        "FourIcon": "fa-regular fa-circle-check",
+        "FiveClass": "price-uncheck",
+        "FiveIcon": "fa-regular fa-circle-xmark",
+        "SixClass": "price-uncheck",
+        "SixIcon": "fa-regular fa-circle-xmark",
+        "SevenClass": "price-uncheck",
+        "SevenIcon": "fa-regular fa-circle-xmark",
+        "DemoClass": "btn viewdetails-btn btn-popular"
+    },
+    {
+        "id": 3,
+        "BadgeClass": "price-level",
+        "Title": "Pro",
+        "Text": "For the Pro",
+        "Price": "$154",
+        "Content": "Per user per month",
+        "FourClass": "price-check",
+        "FourIcon": "fa-regular fa-circle-check",
+        "FiveClass": "price-check",
+        "FiveIcon": "fa-regular fa-circle-check",
+        "SixClass": "price-check",
+        "SixIcon": "fa-regular fa-circle-check",
+        "SevenClass": "price-check",
+        "SevenIcon": "fa-regular fa-circle-check",
+        "DemoClass": "btn viewdetails-btn"
+    }
+]

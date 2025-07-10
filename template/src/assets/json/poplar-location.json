@@ -1,0 +1,32 @@
+[
+    {
+        "Image" : "popular-location-01.jpg",
+        "Location" : "Dubai",
+        "Yachts" : "42"
+    },
+    {
+        "Image" : "popular-location-02.jpg",
+        "Location" : "Bangkok",
+        "Yachts" : "50"
+    },
+    {
+        "Image" : "popular-location-03.jpg",
+        "Location" : "Newyork",
+        "Yachts" : "78"
+    },
+    {
+        "Image" : "popular-location-04.jpg",
+        "Location" : "Singapore",
+        "Yachts" : "124"
+    },
+    {
+        "Image" : "popular-location-05.jpg",
+        "Location" : "Honk kong",
+        "Yachts" : "100"
+    },
+    {
+        "Image" : "popular-location-06.jpg",
+        "Location" : "Paris",
+        "Yachts" : "110"
+    }
+]

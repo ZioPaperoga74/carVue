@@ -1,0 +1,129 @@
+[
+  {
+    "tittle": "Main",
+    "showAsTab": true,
+    "separateRoute": false,
+    "menu": [
+      {
+        "menuValue": "Dashboard",
+        "Icon": "ti ti-layout-dashboard",
+        "active_link": "/admin-template/index",
+        "route": "/admin-template/index",
+        "hasSubRoute": false,
+        "showSubRoute": false
+      }
+    ]
+  },
+
+  {
+    "tittle": "Rentals",
+    "showAsTab": true,
+    "separateRoute": false,
+    "menu": [
+      {
+        "menuValue": "Auto da approvare",
+        "Icon": "ti ti-clock",
+        "route": "/admin-template/rentals/pending-cars",
+        "active_link": "/admin-template/rentals/pending-cars",
+        "hasSubRoute": false,
+        "showSubRoute": false
+      },
+      {
+        "menuValue": "Tutte le auto",
+        "Icon": "ti ti-car",
+        "route": "/admin-template/rentals/cars",
+        "active_link": "/admin-template/rentals/cars",
+        "active_link1": "/admin-template/rentals/car-details",
+        "active_link2": "/admin-template/rentals/add-car",
+        "active_link3": "/admin-template/rentals/edit-car",
+        "hasSubRoute": false,
+        "showSubRoute": false
+      }
+    ]
+  },
+
+  {
+    "tittle": "Others",
+    "showAsTab": true,
+    "separateRoute": false,
+    "menu": [
+      {
+        "menuValue": "Messages",
+        "Icon": "ti ti-message",
+        "route": "/admin-template/others/chat",
+        "active_link": "/admin-template/others/chat",
+        "hasSubRoute": false,
+        "showSubRoute": false
+      }
+    ]
+  },
+
+  {
+    "tittle": "Support",
+    "showAsTab": true,
+    "separateRoute": false,
+    "menu": [
+      {
+        "menuValue": "Tickets",
+        "Icon": "ti ti-ticket",
+        "route": "/admin-template/support/tickets",
+        "active_link": "/admin-template/support/tickets",
+        "hasSubRoute": false,
+        "showSubRoute": false
+      }
+    ]
+  },
+  {
+    "tittle": "User Management",
+    "showAsTab": true,
+    "separateRoute": false,
+    "menu": [
+      {
+        "menuValue": "Users",
+        "Icon": "ti ti-user-circle",
+        "route": "/admin-template/users/users-list",
+        "active_link": "/admin-template/users/users-list",
+        "hasSubRoute": false,
+        "showSubRoute": false
+      }
+    ]
+  },
+  {
+    "tittle": "Reports",
+    "showAsTab": true,
+    "separateRoute": false,
+    "menu": [
+      {
+        "menuValue": "Earnings",
+        "Icon": "ti ti-chart-line",
+        "route": "/admin-template/reports/earnings-report",
+        "active_link": "/admin-template/reports/earnings-report",
+        "hasSubRoute": false,
+        "showSubRoute": false
+      }
+    ]
+  },
+  {
+    "tittle": "Authentication",
+    "showAsTab": true,
+    "separateRoute": false,
+    "menu": [
+      {
+        "menuValue": "Email Verification",
+        "Icon": "ti ti-mail-exclamation",
+        "route": "/admin-template/otp",
+        "active_link": "/admin-template/otp",
+        "hasSubRoute": false,
+        "showSubRoute": false
+      },
+      {
+        "menuValue": "Reset Password",
+        "Icon": "ti ti-restore",
+        "route": "/admin-template/reset-password",
+        "active_link": "/admin-template/reset-password",
+        "hasSubRoute": false,
+        "showSubRoute": false
+      }
+    ]
+  }
+]

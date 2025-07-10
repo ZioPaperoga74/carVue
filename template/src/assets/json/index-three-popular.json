@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "Slider": [
+            {"id": 1, "Image": "bike5-slide-01.png"},
+            {"id": 2, "Image": "bike5-slide-02.png"},
+            {"id": 3, "Image": "bike5-slide-03.png"},
+            {"id": 4, "Image": "bike5-slide-04.png"}    
+        ],
+        "Avatar": "avatar-11.jpg",
+        "Reviews": "140 Reviews",
+        "Bike": "Royal Enfield",
+        "MapPin": "3.9m",
+        "Break": "Drum",
+        "Speed": "35 Km/L",
+        "Liquid": "Diesel",
+        "Tyer": "Tubeless",
+        "Price": "$110"
+    },
+    {
+        "id": 2,
+        "Slider": [
+            {"id": 1, "Image": "bike6-slide-01.png"},
+            {"id": 2, "Image": "bike6-slide-02.png"},
+            {"id": 3, "Image": "bike6-slide-03.png"},
+            {"id": 4, "Image": "bike6-slide-02.png"}    
+        ],
+        "Avatar": "avatar-05.jpg",
+        "Reviews": "140 Reviews",
+        "Bike": "Ducati Street fighter",
+        "MapPin": "3.9m",
+        "Break": "Drum",
+        "Speed": "35 Km/L",
+        "Liquid": "Diesel",
+        "Tyer": "Tubeless",
+        "Price": "$150"
+    },
+    {
+        "id": 3,
+        "Slider": [
+            {"id": 1, "Image": "bike7-slide-01.png"},
+            {"id": 2, "Image": "bike7-slide-02.png"},
+            {"id": 3, "Image": "bike7-slide-03.png"},
+            {"id": 4, "Image": "bike7-slide-04.png"}    
+        ],
+        "Avatar": "avatar-06.jpg",
+        "Reviews": "180 Reviews",
+        "Bike": "TVS Apache RR 310",
+        "MapPin": "3.6m",
+        "Break": "Drum",
+        "Speed": "35 Km/L",
+        "Liquid": "Diesel",
+        "Tyer": "Tubeless",
+        "Price": "$150"
+    },
+    {
+        "id": 4,
+        "Slider": [
+            {"id": 1, "Image": "bike8-slide-01.png"},
+            {"id": 2, "Image": "bike8-slide-02.png"},
+            {"id": 3, "Image": "bike8-slide-03.png"},
+            {"id": 4, "Image": "bike8-slide-04.png"}    
+        ],
+        "Avatar": "avatar-12.jpg",
+        "Reviews": "180 Reviews",
+        "Bike": "Kawasaki Ninja 400",
+        "MapPin": "3.6m",
+        "Break": "Drum",
+        "Speed": "35 Km/L",
+        "Liquid": "Diesel",
+        "Tyer": "Tubeless",
+        "Price": "$120"
+    }
+]

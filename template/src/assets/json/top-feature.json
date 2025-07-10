@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "Slider": [
+            {
+                "id": 1,
+                "Img": "top-yacht-01.jpg"
+            },
+            {
+                "id": 2,
+                "Img": "top-yacht-02.jpg"
+            },
+            {
+                "id": 3,
+                "Img": "top-yacht-03.jpg"
+            },
+            {
+                "id": 3,
+                "Img": "top-yacht-04.jpg"
+            }
+        ],
+        "Badge": "Feature",
+        "BadgeIcon": "ribbon-text bg-danger",
+        "Name" : "Bavaria 50 Cruiser",
+        "Location" : "Chicago, IL",
+        "Meter" : "3.2m",
+        "People": "8",
+        "Length": "4.6m",
+        "Fuel": "Diesel",
+        "Year": "2024",
+        "Engine": "MTU",
+        "Cabins": "4",
+        "Amount" : "$180"
+    },
+    {
+        "id": 1,
+        "Slider": [
+            {
+                "id": 1,
+                "Img": "top-yacht-05.jpg"
+            },
+            {
+                "id": 2,
+                "Img": "top-yacht-06.jpg"
+            },
+            {
+                "id": 3,
+                "Img": "top-yacht-07.jpg"
+            },
+            {
+                "id": 3,
+                "Img": "top-yacht-08.jpg"
+            }
+        ],
+        "Badge": "Top Rated",
+        "BadgeIcon": "ribbon-text bg-warning",
+        "Name" : "My Fair Shaare",
+        "Location" : "Warwick, Cowesst mariana",
+        "Meter" : "2.2m",
+        "People": "3",
+        "Length": "5.6m",
+        "Fuel": "Diesel",
+        "Year": "2023",
+        "Engine": "57hp",
+        "Cabins": "3",
+        "Amount" : "$280"
+    }
+]

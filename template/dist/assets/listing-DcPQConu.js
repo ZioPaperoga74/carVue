@@ -1,0 +1,1 @@
+import{_ as t,r as e,c,o as s,a as o,F as a}from"./index-LMFVUyQs.js";const _={};function l(m,i){const n=e("scroll"),r=e("router-view");return s(),c(a,null,[o(n),o(r)],64)}const f=t(_,[["render",l]]);export{f as default};

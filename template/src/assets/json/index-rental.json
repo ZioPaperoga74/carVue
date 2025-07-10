@@ -1,0 +1,56 @@
+[
+  {
+    "id": 3,
+    "Slider": [
+      { "id": 1, "Image": "rental-car-03.jpg" },
+      { "id": 2, "Image": "rental-car-03-slider1.jpg" },
+      { "id": 3, "Image": "rental-car-03-slider2.jpg" },
+      { "id": 4, "Image": "rental-car-03-slider3.jpg" }
+    ],
+    "Price": "$380",
+    "Rating": "(5.0)",
+    "Title": "Mercedes-Benz",
+    "Drive": "Auto",
+    "KM": "30 KM",
+    "liquid": "Diesel",
+    "Steering": "Power",
+    "Car": "AC",
+    "Seat": "5 Persons"
+  },
+  {
+    "id": 3,
+    "Slider": [
+      { "id": 1, "Image": "rental-car-03.jpg" },
+      { "id": 2, "Image": "rental-car-03-slider1.jpg" },
+      { "id": 3, "Image": "rental-car-03-slider2.jpg" },
+      { "id": 4, "Image": "rental-car-03-slider3.jpg" }
+    ],
+    "Price": "$380",
+    "Rating": "(5.0)",
+    "Title": "Mercedes-Benz",
+    "Drive": "Auto",
+    "KM": "30 KM",
+    "liquid": "Diesel",
+    "Steering": "Power",
+    "Car": "AC",
+    "Seat": "5 Persons"
+  },
+  {
+    "id": 3,
+    "Slider": [
+      { "id": 1, "Image": "rental-car-03.jpg" },
+      { "id": 2, "Image": "rental-car-03-slider1.jpg" },
+      { "id": 3, "Image": "rental-car-03-slider2.jpg" },
+      { "id": 4, "Image": "rental-car-03-slider3.jpg" }
+    ],
+    "Price": "$380",
+    "Rating": "(5.0)",
+    "Title": "Mercedes-Benz",
+    "Drive": "Auto",
+    "KM": "30 KM",
+    "liquid": "Diesel",
+    "Steering": "Power",
+    "Car": "AC",
+    "Seat": "5 Persons"
+  }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "Image": "blog-1.jpg",
+        "Title": "Tesla Model S: Top Secret Car Collector’s Garage",
+        "Avatar": "avatar-13.jpg",
+        "Name": "Alphonsa Daniel",
+        "Day": "Jan 6, 2023"
+    },
+    {
+        "id": 2,
+        "Image": "blog-2.jpg",
+        "Title": "The 2023 Ford F-150 Raptor – A First Look",
+        "Avatar": "avatar-04.jpg",
+        "Name": "Hellan",
+        "Day": "Feb 6, 2023"
+    },
+    {
+        "id": 3,
+        "Image": "blog-3.jpg",
+        "Title": "Tesla Model S: Top Secret Car Collector’s Garage",
+        "Avatar": "avatar-13.jpg",
+        "Name": "Alphonsa Daniel",
+        "Day": "March 6, 2023"
+    },
+    {
+        "id": 4,
+        "Image": "blog-4.jpg",
+        "Title": "The 2023 Ford F-150 Raptor – A First Look",
+        "Avatar": "avatar-04.jpg",
+        "Name": "Hellan",
+        "Day": "March 28, 2022"
+    },
+    {
+        "id": 5,
+        "Image": "blog-5.jpg",
+        "Title": "Tesla Model S: Top Secret Car Collector’s Garage",
+        "Avatar": "avatar-13.jpg",
+        "Name": "Alphonsa Daniel",
+        "Day": "March 30, 2023"
+    },
+    {
+        "id": 6,
+        "Image": "blog-6.jpg",
+        "Title": "The 2023 Ford F-150 Raptor – A First Look",
+        "Avatar": "avatar-04.jpg",
+        "Name": "Hellan",
+        "Day": "March 31, 2023"
+    }
+]

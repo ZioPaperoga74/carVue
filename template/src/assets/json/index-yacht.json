@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "Slider": [
+            {
+                "id": 1,
+                "Img": "boat-01.jpg"
+            },
+            {
+                "id": 2,
+                "Img": "boat-02.jpg"
+            },
+            {
+                "id": 3,
+                "Img": "boat-03.jpg"
+            },
+            {
+                "id": 4,
+                "Img": "boat-04.jpg"
+            }
+        ],
+        "Badge": "Yacht Sun Odyssey 419",
+        "Location" : "Chicago, IL",
+        "Meter" : "3.2m",
+        "People": "8",
+        "Length": "4.6m",
+        "Year": "2024",
+        "Engine": "MTU",
+        "Cabins": "4",
+        "Amount" : "$180"
+    },
+    {
+        "id": 2,
+        "Slider": [
+            {
+                "id": 1,
+                "Img": "boat-05.jpg"
+            },
+            {
+                "id": 2,
+                "Img": "boat-06.jpg"
+            },
+            {
+                "id": 3,
+                "Img": "boat-07.jpg"
+            },
+            {
+                "id": 4,
+                "Img": "boat-08.jpg"
+            }
+        ],
+        "Badge": "Bavaria Cruiser | Oceanos",
+        "Location" : "Miami beach, Miami",
+        "Meter" : "3.2m",
+        "People": "4",
+        "Length": "2.6m",
+        "Year": "2023",
+        "Engine": "MTU",
+        "Cabins": "8",
+        "Amount" : "$150"
+    },
+    {
+        "id": 3,
+        "Slider": [
+            {
+                "id": 1,
+                "Img": "boat-09.jpg"
+            },
+            {
+                "id": 2,
+                "Img": "boat-10.jpg"
+            },
+            {
+                "id": 3,
+                "Img": "boat-12.jpg"
+            },
+            {
+                "id": 4,
+                "Img": "boat-13.jpg"
+            }
+        ],
+        "Badge": "Sailing yacht Dufour",
+        "Location" : "Key West, harbour",
+        "Meter" : "7.1m",
+        "People": "2",
+        "Length": "4.6m",
+        "Year": "2023",
+        "Cabins": "3",
+        "Amount" : "$410"
+    },
+    {
+        "id": 4,
+        "Slider": [
+            {
+                "id": 1,
+                "Img": "boat-11.jpg"
+            },
+            {
+                "id": 2,
+                "Img": "boat-14.jpg"
+            },
+            {
+                "id": 3,
+                "Img": "boat-15.jpg"
+            },
+            {
+                "id": 4,
+                "Img": "boat-16.jpg"
+            }
+        ],
+        "Badge": "Beneteau Oceanis 41.1",
+        "Location" : "Annopolis, Mariana",
+        "Meter" : "7.1m",
+        "People": "3",
+        "Length": "5.6m",
+        "Year": "2024",
+        "Cabins": "4",
+        "Amount" : "$680"
+    }
+]

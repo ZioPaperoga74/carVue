@@ -1,0 +1,75 @@
+.scroll-area {
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: calc(100vh - 30px);
+    background-color: transparent !important;
+}
+.settings-sidebar .sidebar-menu .sidebar-links .active a span {
+    color: #fff;
+}
+.scroll-area-1 {
+    position: relative;
+      margin: auto;
+      width: 100%;
+      height: calc(100vh - 30px);
+      background-color: transparent !important;
+  }
+
+.ant-picker-suffix .anticon-clock-circle{
+    display: none;
+}
+
+.stickysidebar {
+    position: sticky;
+    top: 0;
+}
+.vue-tel-input{
+    display: flex !important;
+}
+
+.ant-picker-dropdown{
+    z-index: 1055 !important;
+}
+.ant-picker-suffix .anticon-calendar{
+    display: none !important;
+}
+
+.ti.ti-player-play-filled{
+    font-size: large;
+}
+
+.sidebar-inner .scroll-area .ps__rail-x{
+    display: none !important;
+}
+
+.sidebar-logo{
+    background-color: #fff;
+    z-index: 99;
+}
+.dark-mode .sidebar-logo{
+    background-color: #0E1114;
+}
+
+.dark-mode .ant-table-cell {
+    background: #0E1114 !important;
+    border-top: #252525 !important;
+}
+.dark-mode .ant-table-column-title {
+    color: #ffffff !important;
+}
+.dark-mode .ant-table-cell.ant-table-cell-row-hover {
+    background: #0E1114 !important;
+}
+.dark-mode .ant-table {
+    border: #1a1e22 !important;
+}
+.dark-mode .ant-table-row.ant-table-row-selected {
+    background: #0E1114 !important;
+}
+.dark-mode .ant-table-row-selected .ant-table-cell{
+    background: #0E1114 !important;
+}
+.vue-select .control .single-value .indicators-container .clear-button{
+    display: none;
+}

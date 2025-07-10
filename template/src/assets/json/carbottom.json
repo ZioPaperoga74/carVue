@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "Image": "slider-thum-01.jpg"
+    },
+    {
+        "id": 2,
+        "Image": "slider-thum-02.jpg"
+    },
+    {
+        "id": 3,
+        "Image": "slider-thum-03.jpg"
+    },
+    {
+        "id": 4,
+        "Image": "slider-thum-04.jpg"
+    },
+    {
+        "id": 5,
+        "Image": "slider-thum-05.jpg"
+    }
+]

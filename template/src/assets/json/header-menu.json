@@ -1,0 +1,201 @@
+[
+  {
+    "tittle": "Home",
+    "showAsTab": false,
+    "separateRoute": true,
+    "active_link": "/home/index-2",
+    "menu": [
+      {
+        "menuValue": "Car Rental 1",
+        "version": "Hot",
+        "routes": "/home/index-2",
+        "image": "home-02.svg",
+        "hasSubRoute": false,
+        "showSubRoute": false,
+        "active_link": "/home/index-2"
+      }
+    ]
+  },
+  {
+    "tittle": "Trova la tua nuova auto",
+    "showAsTab": false,
+    "separateRoute": false,
+    "active_link": "listing",
+    "menu": [
+      {
+        "menuValue": "Cerca Auto",
+        "routes": "/listing/listing-grid",
+        "hasSubRoute": false,
+        "showSubRoute": false,
+        "active_link": "/listing/listing-grid",
+        "subMenus": []
+      },
+      {
+        "menuValue": "Magic Filter",
+        "routes": "/listing/magic-filter",
+        "hasSubRoute": false,
+        "showSubRoute": false,
+        "active_link": "/listing/magic-filter",
+        "subMenus": []
+      }
+    ]
+  },
+  {
+    "tittle": "info",
+    "showAsTab": false,
+    "separateRoute": false,
+    "active_link": "pages",
+    "active_link1": "pages-booking",
+    "menu": [
+      {
+        "menuValue": "Chi Siamo",
+        "routes": "/pages/about-us",
+        "hasSubRoute": false,
+        "showSubRoute": false,
+        "active_link": "/pages/about-us",
+        "subMenus": []
+      },
+
+      {
+        "menuValue": "FAQ",
+        "routes": "/pages/faq",
+        "hasSubRoute": false,
+        "showSubRoute": false,
+        "active_link": "/pages/faq",
+        "subMenus": []
+      },
+
+      {
+        "menuValue": "Testimonials",
+        "routes": "/pages/testimonial",
+        "hasSubRoute": false,
+        "showSubRoute": false,
+        "active_link": "/pages/testimonial",
+        "subMenus": []
+      },
+      {
+        "menuValue": "Terms & Conditions",
+        "routes": "/pages/terms-condition",
+        "hasSubRoute": false,
+        "showSubRoute": false,
+        "active_link": "/pages/terms-condition",
+        "subMenus": []
+      },
+      {
+        "menuValue": "Privacy Policy",
+        "routes": "/pages/privacy-policy",
+        "hasSubRoute": false,
+        "showSubRoute": false,
+        "active_link": "/pages/privacy-policy",
+        "subMenus": []
+      }
+    ]
+  },
+  {
+    "tittle": "Profilo",
+    "showAsTab": false,
+    "separateRoute": false,
+    "active_link": "user",
+    "menu": [
+      {
+        "menuValue": "User Dashboard",
+        "active_link": "user",
+        "hasSubRoute": true,
+        "showSubRoute": false,
+        "subMenus": [
+          {
+            "menuValue": "Wishlist",
+            "routes": "/user/user-wishlist",
+            "active_link": "/user/user-wishlist",
+            "hasSubRoute": false,
+            "showSubRoute": false,
+            "subMenus": []
+          },
+          {
+            "menuValue": "Messages",
+            "routes": "/user/user-messages",
+            "active_link": "/user/user-messages",
+            "hasSubRoute": false,
+            "showSubRoute": false,
+            "subMenus": []
+          },
+          {
+            "menuValue": "Carica Auto",
+            "routes": "/user/user-upload",
+            "active_link": "/user/user-upload",
+            "hasSubRoute": false,
+            "showSubRoute": false,
+            "subMenus": []
+          },
+          {
+            "menuValue": "Auto Caricate",
+            "routes": "/user/user-uploaded-cars",
+            "active_link": "/user/user-uploaded-cars",
+            "hasSubRoute": false,
+            "showSubRoute": false,
+            "subMenus": []
+          },
+
+          {
+            "menuValue": "Settings",
+            "routes": "/user/user-settings",
+            "active_link": "/user/user-settings",
+            "hasSubRoute": false,
+            "showSubRoute": false,
+            "subMenus": []
+          }
+        ]
+      },
+      {
+        "menuValue": "Admin Dashboard",
+        "hasSubRoute": true,
+        "showSubRoute": false,
+        "subMenus": [
+          {
+            "menuValue": "Dashboard",
+            "routes": "/admin-template/index",
+            "admin": true,
+            "hasSubRoute": false,
+            "showSubRoute": false,
+            "subMenus": []
+          },
+          {
+            "menuValue": "Bookings",
+            "routes": "/admin-template/bookings/reservations",
+            "admin": true,
+            "hasSubRoute": false,
+            "showSubRoute": false,
+            "subMenus": []
+          },
+
+          {
+            "menuValue": "Rentals",
+            "routes": "/admin-template/rentals/cars",
+            "admin": true,
+            "hasSubRoute": false,
+            "showSubRoute": false,
+            "subMenus": []
+          },
+
+          {
+            "menuValue": "Messaggi",
+            "routes": "/admin-template/support/contact-messages",
+            "admin": true,
+            "hasSubRoute": false,
+            "showSubRoute": false,
+            "subMenus": []
+          },
+
+          {
+            "menuValue": "Settings & Configuration",
+            "routes": "/admin-template/account-settings/profile-setting",
+            "admin": true,
+            "hasSubRoute": false,
+            "showSubRoute": false,
+            "subMenus": []
+          }
+        ]
+      }
+    ]
+  }
+]

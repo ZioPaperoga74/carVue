@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "Slider": [
+            {"id": 1, "Image": "bike1-slide-01.png"},
+            {"id": 2, "Image": "bike1-slide-02.png"},
+            {"id": 3, "Image": "bike1-slide-03.png"},
+            {"id": 4, "Image": "bike1-slide-04.png"}    
+        ],
+        "Avatar": "avatar-04.jpg",
+        "Reviews": "138 Reviews",
+        "Name": "Harley Davidson",
+        "MapPin": "3.6m",
+        "Break": "Drum",
+        "Speed": "35 Km/hr",
+        "Liquid": "Diesel",
+        "Tyer": "Tubeless",
+        "Price": "$160",
+        "BadgeClass": "feature-text",
+        "BadgeBgClass": "bg-danger",
+        "Badge": "Featured"
+    },
+    {
+        "id": 2,
+        "Slider": [
+            {"id": 1, "Image": "bike2-slide-01.png"},
+            {"id": 2, "Image": "bike2-slide-02.png"},
+            {"id": 3, "Image": "bike2-slide-03.png"},
+            {"id": 4, "Image": "bike2-slide-04.png"}    
+        ],
+        "Avatar": "avatar-07.jpg",
+        "Reviews": "150 Reviews",
+        "Name": "KTM RC 390",
+        "MapPin": "4.0m",
+        "Break": "Disc",
+        "Speed": "30 Km/L",
+        "Liquid": "Diesel",
+        "Tyer": "Tubeless",
+        "Price": "$180",
+        "BadgeClass": "feature-text",
+        "BadgeBgClass": "bg-warning",
+        "Badge": "Top Rated"
+    },
+    {
+        "id": 3,
+        "Slider": [
+            {"id": 1, "Image": "bike3-slide-01.png"},
+            {"id": 2, "Image": "bike3-slide-02.png"},
+            {"id": 3, "Image": "bike3-slide-03.png"},
+            {"id": 4, "Image": "bike3-slide-04.png"}    
+        ],
+        "Avatar": "avatar-14.jpg",
+        "Reviews": "110 Reviews",
+        "Name": "Ducati Hypermotard",
+        "MapPin": "3.8m",
+        "Break": "Drum",
+        "Speed": "19 Km/L",
+        "Liquid": "Diesel",
+        "Tyer": "Tubeless",
+        "Price": "$190",
+        "BadgeClass": "feature-text",
+        "BadgeBgClass": "bg-danger",
+        "Badge": "Featured"
+    },
+    {
+        "id": 4,
+        "Slider": [
+            {"id": 1, "Image": "bike4-slide-01.png"},
+            {"id": 2, "Image": "bike4-slide-02.png"},
+            {"id": 3, "Image": "bike4-slide-03.png"},
+            {"id": 4, "Image": "bike4-slide-04.png"}    
+        ],
+        "Avatar": "avatar-11.jpg",
+        "Reviews": "180 Reviews",
+        "Name": "TVS Apache RR BS6",
+        "MapPin": "3.6m",
+        "Break": "Disc",
+        "Speed": "41 Km/L",
+        "Liquid": "Diesel",
+        "Tyer": "Tubeless",
+        "Price": "$120",
+        "BadgeClass": "feature-text",
+        "BadgeBgClass": "bg-warning",
+        "Badge": "Top Rated"
+    },
+    {
+        "id": 5,
+        "Slider": [
+            {"id": 1, "Image": "bike1-slide-01.png"},
+            {"id": 2, "Image": "bike1-slide-02.png"},
+            {"id": 3, "Image": "bike1-slide-03.png"},
+            {"id": 4, "Image": "bike1-slide-04.png"}    
+        ],
+        "Avatar": "avatar-07.jpg",
+        "Reviews": "100 Reviews",
+        "Name": "Harley X220",
+        "MapPin": "3.6m",
+        "Break": "Drum",
+        "Speed": "10 KM/L",
+        "Liquid": "Diesel",
+        "Tyer": "Tubeless",
+        "Price": "$77",
+        "BadgeClass": "",
+        "BadgeBgClass": "",
+        "Badge": ""
+    }    
+]

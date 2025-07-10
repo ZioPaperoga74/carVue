@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "Image": "mp-vehicle-01.svg",
+        "Title": "Crossover",
+        "Cars": "35 Cars"
+    },
+    {
+        "id": 2,
+        "Image": "mp-vehicle-02.svg",
+        "Title": "Sports Coupe",
+        "Cars": "45 Cars"
+    },
+    {
+        "id": 3,
+        "Image": "mp-vehicle-03.svg",
+        "Title": "Sedan",
+        "Cars": "15 Cars"
+    },
+    {
+        "id": 4,
+        "Image": "mp-vehicle-04.svg",
+        "Title": "Pickup",
+        "Cars": "17 Cars"
+    },
+    {
+        "id": 5,
+        "Image": "mp-vehicle-05.svg",
+        "Title": "Family MPV",
+        "Cars": "24 Cars"
+    }
+]

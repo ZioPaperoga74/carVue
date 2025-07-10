@@ -1,0 +1,151 @@
+[
+    {
+        "id": 1,
+        "Slider": [
+            {"id": 1, "Image": "car-list-1.jpg"},
+            {"id": 2, "Image": "car-list-1.jpg"},
+            {"id": 3, "Image": "car-list-1.jpg"},
+            {"id": 4, "Image": "car-list-1.jpg"}    
+        ],
+        "brand": "Ferrarai",
+        "Name" : "Ferrari 458 MM Special", 
+        "Reviews": "180 Reviews",
+        "transmission": "Auto",
+        "mileage": "10 KM",
+        "fuelType": "Petrol",
+        "power": "Power",
+        "year": "2018",
+        "price": "$160",
+        "passengers": "5 Persons",
+        "location": "Newyork, USA",
+        "Logo" : "car-list-icon-03.png",
+        "Meter" : "3.2m",
+        "Rated" : "Featured",
+        "RatedClass" : "bg-danger"
+    },
+    {
+        "id": 2,
+        "Slider": [
+            {"id": 1, "Image": "car-list-2.jpg"} 
+        ],
+        "brand": "BMW",
+        "Name" : "BMW 640 XI Gran Turismo",
+        "Reviews" : "165 Reviews",
+        "transmission": "Auto",
+        "mileage": "10 KM",
+        "fuelType": "Petrol",
+        "power": "Power",
+        "year": "2018",
+        "price": "$60",
+        "passengers": "5 Persons",
+        "location": "Newyork, USA",
+        "Logo" : "car-list-icon-03.png",
+        "Meter" : "3.7m",
+        "Rated" : "",
+        "RatedClass" : ""
+    },
+    {
+        "id": 3,
+        "Slider": [
+            {"id": 1, "Image": "car-list-3.jpg"}  
+        ],
+        "brand": "Ford",
+        "Name" : "Ford Mustang, Blue 2014",
+        "Reviews" : "200 Reviews",
+        "transmission": "Auto",
+        "mileage": "10 KM",
+        "fuelType": "Petrol",
+        "power": "Power",
+        "year": "2018",
+        "price": "$150",
+        "passengers": "5 Persons",
+        "location": "Newyork, USA",
+        "Logo" : "car-list-icon-03.png",
+        "Meter" : "4.0m",
+        "Rated" : "Top Rated",
+        "RatedClass" : "bg-warning"
+    },
+    {
+        "id": 4,
+        "Slider": [
+            {"id": 1, "Image": "car-list-5.jpg"}  
+        ],
+        "brand": "Ford",
+        "Name" : "Ford Mustang 4.0 AT",
+        "Reviews" : "150 Reviews",
+        "transmission": "Manual",
+        "mileage": "10 KM",
+        "fuelType": "Petrol",
+        "power": "Power",
+        "year": "2019",
+        "price": "$45",
+        "passengers": "4 Persons",
+        "location": "Newyork, USA",
+        "Logo" : "car-list-icon-03.png",
+        "Meter" : "3.5m",
+        "Rated" : "",
+        "RatedClass" : ""
+    },
+    {
+        "id": 5,
+        "Slider": [
+            {"id": 1, "Image": "car-list-6.jpg"}  
+        ],
+        "brand": "Audi",
+        "Name" : "Audi A3 2019 new",
+        "Reviews" : "170 Reviews",
+        "transmission": "Auto",
+        "mileage": "10 KM",
+        "fuelType": "Petrol",
+        "power": "Power",
+        "year": "2019",
+        "price": "$90",
+        "passengers": "5 Persons",
+        "location": "Lasvegas, USA",
+        "Logo" : "car-list-icon-03.png",
+        "Meter" : "4.1m",
+        "Rated" : "Featured",
+        "RatedClass" : "bg-danger"
+    },
+    {
+        "id": 6,
+        "Slider": [
+            {"id": 1, "Image": "car-list-7.jpg"}  
+        ],
+        "brand": "Acura",
+        "Name" : "Acura Sport Version",
+        "Reviews" : "180 Reviews",
+        "transmission": "Auto",
+        "mileage": "12 KM",
+        "fuelType": "Diesel",
+        "power": "Power",
+        "year": "2019",
+        "price": "$30",
+        "passengers": "5 Persons",
+        "location": "Newyork, USA",
+        "Logo" : "car-list-icon-03.png",
+        "Meter" : "4.2m",
+        "Rated" : "",
+        "RatedClass" : ""
+    },
+    {
+        "id": 7,
+        "Slider": [
+            {"id": 1, "Image": "car-list-4.jpg"}  
+        ],
+        "brand": "Chevrolet",
+        "Name" : "2018 Chevrolet Camaro",
+        "Reviews" : "200 Reviews",
+        "transmission": "Manual",
+        "mileage": "18 KM",
+        "fuelType": "Diesel",
+        "power": "Power",
+        "year": "2018",
+        "price": "$30",
+        "passengers": "5 Persons",
+        "location": "Lasvegas, USA",
+        "Meter" : "4.5m",
+        "Rated" : "Top Rated",
+        "RatedClass" : "bg-warning"
+    }
+]

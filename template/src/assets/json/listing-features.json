@@ -1,0 +1,62 @@
+[
+    {
+       "id": 1,
+       "feature": "Multi-zone A/C",
+       "checked": true
+    },
+    {
+       "id": 2,
+       "feature": "Heated front seats",
+       "checked": true
+    },
+    {
+       "id": 3,
+       "feature": "Andriod Auto",
+       "checked": true
+    },
+    {
+       "id": 4,
+       "feature": "Navigation system",
+       "checked": true
+    },
+    {
+       "id": 5,
+       "feature": "Premium sound system",
+       "checked": true
+    },
+    {
+       "id": 6,
+       "feature": "Bluetooth",
+       "checked": true
+    },
+    {
+       "id": 7,
+       "feature": "Keyless Start",
+       "checked": true
+    },
+    {
+       "id": 8,
+       "feature": "Memory seat",
+       "checked": true
+    },
+    {
+       "id": 9,
+       "feature": "6 Cylinders",
+       "checked": true
+    },
+    {
+       "id": 10,
+       "feature": "Adaptive Cruise Control",
+       "checked": true
+    },
+    {
+       "id": 11,
+       "feature": "Intermittent wipers",
+       "checked": true
+    },
+    {
+       "id": 12,
+       "feature": "4 power windows",
+       "checked": true
+    }
+   ]

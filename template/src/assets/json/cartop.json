@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "Image": "slider-01.jpg"
+    },
+    {
+        "id": 2,
+        "Image": "slider-02.jpg"
+    },
+    {
+        "id": 3,
+        "Image": "slider-03.jpg"
+    },
+    {
+        "id": 4,
+        "Image": "slider-04.jpg"
+    },
+    {
+        "id": 5,
+        "Image": "slider-05.jpg"
+    }
+]

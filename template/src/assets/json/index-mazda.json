@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "Slider": [
+      { "id": 1, "Image": "car-01.jpg" },
+      { "id": 2, "Image": "car-01-slide1.jpg" },
+      { "id": 3, "Image": "car-01-slide2.jpg" },
+      { "id": 4, "Image": "car-01-slide3.jpg" }
+    ],
+    "ImgCount": "04",
+    "Cars": "Toyota",
+    "Avatar": "avatar-04.jpg",
+    "Title": "Toyota Camry SE 350",
+    "Reviews": "(4.0) 138 Reviews",
+    "MapPin": "3.2m",
+    "Gear": "car-parts-01.svg",
+    "Drive": "Auto",
+    "KM": "10 KM",
+    "liquid": "Petrol",
+    "Steering": "Power",
+    "Engine": "2018",
+    "Seat": "5 Persons",
+    "Location": "Washington",
+    "Price": "$160",
+    "BadgeClass": "feature-text",
+    "BadgeBgClass": "bg-danger",
+    "Badge": "Featured"
+  },
+  {
+    "id": 2,
+    "Slider": [
+      { "id": 1, "Image": "car-02.jpg" },
+      { "id": 2, "Image": "car-02-slide1.jpg" },
+      { "id": 3, "Image": "car-02-slide2.jpg" },
+      { "id": 4, "Image": "car-02-slide3.jpg" }
+    ],
+    "ImgCount": "04",
+    "Cars": "KIA",
+    "Avatar": "avatar-02.jpg",
+    "Title": "Kia Soul 2016",
+    "Reviews": "(4.0) 138 Reviews",
+    "MapPin": "4.0m",
+    "Gear": "car-parts-01.svg",
+    "Drive": "Auto",
+    "KM": "22 KM",
+    "liquid": "Petrol",
+    "Steering": "Diesel",
+    "Engine": "2016",
+    "Seat": "5 Persons",
+    "Location": "Belgium",
+    "Price": "$80",
+    "BadgeClass": "",
+    "BadgeBgClass": "",
+    "Badge": ""
+  },
+  {
+    "id": 2,
+    "Slider": [
+      { "id": 1, "Image": "car-02.jpg" },
+      { "id": 2, "Image": "car-02-slide1.jpg" },
+      { "id": 3, "Image": "car-02-slide2.jpg" },
+      { "id": 4, "Image": "car-02-slide3.jpg" }
+    ],
+    "ImgCount": "04",
+    "Cars": "KIA",
+    "Avatar": "avatar-02.jpg",
+    "Title": "Kia Soul 2016",
+    "Reviews": "(4.0) 138 Reviews",
+    "MapPin": "4.0m",
+    "Gear": "car-parts-01.svg",
+    "Drive": "Auto",
+    "KM": "22 KM",
+    "liquid": "Petrol",
+    "Steering": "Diesel",
+    "Engine": "2016",
+    "Seat": "5 Persons",
+    "Location": "Belgium",
+    "Price": "$80",
+    "BadgeClass": "",
+    "BadgeBgClass": "",
+    "Badge": ""
+  }
+]

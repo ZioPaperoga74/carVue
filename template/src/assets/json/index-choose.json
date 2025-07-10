@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "Class": "choose-img choose-black",
+    "Image": "bx-selection.svg",
+    "Title": "Ampia Scelta e Affari Imperdibili",
+    "Content": "Trova l’auto perfetta per te tra un’ampia selezione di veicoli usati garantiti, a prezzi competitivi."
+  },
+  {
+    "id": 2,
+    "Class": "choose-img choose-secondary",
+    "Image": "bx-crown.svg",
+    "Title": "Trasparenza e Affidabilità",
+    "Content": "Ogni vettura è controllata e pronta per la strada. Nessuna sorpresa, solo acquisti sicuri."
+  },
+  {
+    "id": 3,
+    "Class": "choose-img choose-primary",
+    "Image": "bx-user-check.svg",
+    "Title": "Clienti Soddisfatti, Sempre",
+    "Content": "Il nostro obiettivo è offrirti un’esperienza d’acquisto semplice, chiara e vantaggiosa."
+  }
+]

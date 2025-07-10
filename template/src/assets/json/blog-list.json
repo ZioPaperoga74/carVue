@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "Image": "blog-list-01.jpg",
+        "Avatar": "avatar-13.jpg",
+        "Name": "Alphonsa Daniel",
+        "Day": "Feb 6, 2023"
+    },
+    {
+        "id": 2,
+        "Image": "blog-list-02.jpg",
+        "Avatar": "avatar-03.jpg",
+        "Name": "Helan",
+        "Day": "Feb 15, 2023"
+    },
+    {
+        "id": 3,
+        "Image": "blog-list-03.jpg",
+        "Avatar": "avatar-05.jpg",
+        "Name": "Rabien Ustoc",
+        "Day": "Feb 17, 2023"
+    },
+    {
+        "id": 4,
+        "Image": "blog-list-04.jpg",
+        "Avatar": "avatar-06.jpg",
+        "Name": "Valerie L. Ellis",
+        "Day": "Mar 10, 2023"
+    }
+]

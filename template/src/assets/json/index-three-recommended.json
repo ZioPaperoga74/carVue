@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "Image": "bike-01.png",
+        "Reviews": "138 Reviews",
+        "Bike": "KTM 1290 Super Duke R EVO",
+        "MapPin": "3.2m",
+        "Break": "Drum",
+        "Speed": "41 Km/L",
+        "Liquid": "Diesel",
+        "Tyer": "Tubeless",
+        "Price": "$160"
+    },
+    {
+        "id": 2,
+        "Image": "bike-03.png",
+        "Reviews": "112 Reviews",
+        "Bike": "Honda Rebel 300",
+        "MapPin": "3.5m",
+        "Break": "Drum",
+        "Speed": "20 Km/L",
+        "Liquid": "Diesel",
+        "Tyer": "Tubeless",
+        "Price": "$150"
+    },
+    {
+        "id": 3,
+        "Image": "bike-02.png",
+        "Reviews": "125 Reviews",
+        "Bike": "Kawasaki z900",
+        "MapPin": "3.0m",
+        "Break": "Drum",
+        "Speed": "17 Km/L",
+        "Liquid": "Diesel",
+        "Tyer": "Tubeless",
+        "Price": "$180"
+    }
+]

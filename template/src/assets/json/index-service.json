@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "ServiceClass": "services-group service-date flex-fill",
+    "IconClass": "services-icon border-secondary",
+    "Image": "services-icon-01.svg",
+    "Title": "1. Trova l’Auto Perfetta",
+    "Class": "services-icon border-secondary",
+    "ImgClass": "icon-img bg-secondary",
+    "Content": "Sfoglia il nostro parco auto usate e scegli il modello che fa per te, in base alle tue esigenze e al tuo budget."
+  },
+  {
+    "id": 2,
+    "ServiceClass": "services-group service-loc flex-fill",
+    "IconClass": "services-icon border-warning",
+    "Image": "services-icon-02.svg",
+    "Title": "2. Prenota una Consulenza",
+    "Class": "services-icon border-warning",
+    "ImgClass": "icon-img bg-warning",
+    "Content": "Prenota una consulenza con un nostro operatore! Ti aspettiamo per fornirti tutte le informazioni su condizioni, prezzi disponibili."
+  },
+  {
+    "id": 3,
+    "ServiceClass": "services-group service-book flex-fill",
+    "IconClass": "services-icon border-dark",
+    "Image": "services-icon-03.svg",
+    "Title": "3. Acquista con Facilità",
+    "Class": "services-icon border-dark",
+    "ImgClass": "icon-img bg-dark",
+    "Content": "Una volta scelta la tua auto, gestiamo insieme tutta la documentazione per un acquisto semplice e sicuro."
+  }
+]

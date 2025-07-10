@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "Icon": "feather-phone-call",
+        "Title": "Phone Number",
+        "Content": "(888) 888-8888"
+    },
+    {
+        "id": 2,
+        "Icon": "feather-mail",
+        "Title": "Email Address",
+        "Content": "johnsmith@example.com"
+    },
+    {
+        "id": 3,
+        "Icon": "feather-map-pin",
+        "Title": "Location",
+        "Content": "367 Hillcrest Lane,USA"
+    },
+    {
+        "id": 4,
+        "Icon": "feather-clock",
+        "Title": "Opening Hours",
+        "Content": "Mon - Sat (10.00AM - 05.30PM)"
+    }
+]
